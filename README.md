@@ -1,6 +1,6 @@
 # Extra Caffeine for AI agents
 
-Keep a local Mac awake while authorized AI work needs it. Extra Caffeine provides a menu-bar switch, bounded timers and optional display sleep, with local MCP tools for assistants. The Mac app is free during the November 6–December 6, 2026 adoption launch. This repository contains the free adapter and workflow skill; install the Mac app separately. Downloaded versions do not expire, and no automatic charge follows the launch.
+Keep a local Mac awake while authorized AI work needs it. Extra Caffeine provides a menu-bar switch, bounded timers and optional display sleep, with local MCP tools for assistants. The Mac app is free. This repository contains the free adapter and workflow skill; install the Mac app separately. No payment, subscription, or expiry.
 
 [Get the Mac app](https://extracaffeine.chesterwong.com/) · [Setup guide](https://extracaffeine.chesterwong.com/agent-setup.md) · [MCP Registry entry](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.cwong5%2Fextra-caffeine/versions/0.1.0)
 

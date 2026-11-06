@@ -1,6 +1,6 @@
 # Extra Caffeine MCPB adapter
 
-This macOS-only binary adapter connects a local MCPB-compatible client to the user's separately installed **Extra Caffeine 1.2+** app. Requires macOS 14+, Intel or Apple silicon. The app is installed separately and is free during the November 6–December 6, 2026 adoption launch. It is not bundled with this package. Downloaded versions do not expire; see the product website for current availability.
+This macOS-only binary adapter connects a local MCPB-compatible client to the user's separately installed **Extra Caffeine 1.2+** app. Requires macOS 14+, Intel or Apple silicon. The app is installed separately and is free. It is not bundled with this package. Downloaded versions do not expire; see the product website for current availability.
 
 Install the app from https://extracaffeine.chesterwong.com/ or the Mac App Store. Open it, enable **AI assistants**, then install the adapter in a client supporting MCPB binary extensions. Select that installed `.app` in the adapter's `app_path` setting. Both editions are supported; select the same edition you have open. For clients without MCPB, use the app's **Copy MCP settings** instead. Setup: https://extracaffeine.chesterwong.com/agent-setup.md.
 
