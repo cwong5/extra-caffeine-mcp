@@ -1,6 +1,6 @@
 # Extra Caffeine for AI agents
 
-Keep a local Mac awake while authorized AI work needs it. Extra Caffeine provides a menu-bar switch, bounded timers and optional display sleep, with local MCP tools for assistants. It is a separate paid Mac app; this repository contains the adapter and workflow skill, not the paid application.
+Keep a local Mac awake while authorized AI work needs it. Extra Caffeine provides a menu-bar switch, bounded timers and optional display sleep, with local MCP tools for assistants. The Mac app is free during the November 6–December 6, 2026 adoption launch. This repository contains the free adapter and workflow skill; install the Mac app separately. Downloaded versions do not expire, and no automatic charge follows the launch.
 
 [Get the Mac app](https://extracaffeine.chesterwong.com/) · [Setup guide](https://extracaffeine.chesterwong.com/agent-setup.md) · [MCP Registry entry](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.cwong5%2Fextra-caffeine/versions/0.1.0)
 
@@ -16,7 +16,7 @@ Installing the skill does not install the Mac app, configure MCP or enable contr
 
 ## Connect the local app
 
-Requires macOS 14+, Intel or Apple silicon, and separately installed Extra Caffeine 1.2+. Purchase/download through the product website or Mac App Store. Open the chosen edition and enable AI assistants.
+Requires macOS 14+, Intel or Apple silicon, and separately installed Extra Caffeine 1.2+. Download free through the product website or Mac App Store. Open the chosen edition and enable AI assistants.
 
 - MCPB clients: install the [signed, notarized adapter](https://github.com/cwong5/extra-caffeine-mcp/releases/tag/v0.1.0), choose the installed `.app` and enable the extension. Claude Desktop installation and read-only connection were tested.
 - Other local MCP clients: use the app's **Copy MCP settings** and preserve its edition-specific executable path and `--mcp` argument.
